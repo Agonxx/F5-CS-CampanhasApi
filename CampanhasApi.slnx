@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CampanhasApi.Api/CampanhasApi.Api.csproj" />
+  <Project Path="CampanhasApi.Application/CampanhasApi.Application.csproj" />
+  <Project Path="CampanhasApi.Domain/CampanhasApi.Domain.csproj" />
+  <Project Path="CampanhasApi.Infrastructure/CampanhasApi.Infrastructure.csproj" />
+  <Project Path="CampanhasApi.Tests/CampanhasApi.Tests.csproj" />
+</Solution>
